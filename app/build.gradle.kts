@@ -6,12 +6,12 @@ plugins {
 
 android {
     namespace = "com.danp1925.renovateexpo"
-    compileSdk = 34
+    compileSdk = 35
 
     defaultConfig {
         applicationId = "com.danp1925.renovateexpo"
         minSdk = 28
-        targetSdk = 34
+        targetSdk = 35
         versionCode = 1
         versionName = "1.0"
 
