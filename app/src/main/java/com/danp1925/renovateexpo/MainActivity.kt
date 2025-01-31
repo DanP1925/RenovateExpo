@@ -56,9 +56,9 @@ fun MainScreen() {
     }
 }
 
-
 @Preview(
-    showBackground = true, showSystemUi = true
+    showBackground = true,
+    showSystemUi = true
 )
 @Composable
 fun GreetingPreview() {
